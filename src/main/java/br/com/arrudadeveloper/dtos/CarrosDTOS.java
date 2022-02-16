@@ -19,7 +19,6 @@ import org.hibernate.validator.constraints.Length;
 public class CarrosDTOS {
 	
 	private Long id;
-
 	private String placa;
 	private String modelo;
 	private String cor;
